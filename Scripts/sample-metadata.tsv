@@ -1,0 +1,40 @@
+sample-id	Variant Group	Gender	No. of animals	Sample Type	Day of collection	DNA conc (ng/uL)
+1F	Uninfected	Male	2	Fecal	DAY 0 (preinfection)	259.11
+2F	Uninfected	Female	2	Fecal	DAY 0 (preinfection)	328.194
+3F	Hongkong	Male	2	Fecal	DAY 0 (preinfection)	426.941
+4F	Hongkong	Female	2	Fecal	DAY 0 (preinfection)	357.948
+5F	Delta	Male	2	Fecal	DAY 0 (preinfection)	334.606
+6F	Delta	Female	2	Fecal	DAY 0 (preinfection)	270.517
+7F	Omicron	Male	2	Fecal	DAY 0 (preinfection)	371.237
+8F	Omicron	Female	1	Fecal	DAY 0 (preinfection)	335.332
+9F	Uninfected	Male	2	Fecal	DAY 2	336.554
+10F	Uninfected	Female	2	Fecal	DAY 2	332.778
+11F	Hongkong	Male	1	Fecal	DAY 2	405.605
+12F	Hongkong	Female	2	Fecal	DAY 2	279.946
+13F	Delta	Male	2	Fecal	DAY 2	331.768
+14F	Delta	Female	2	Fecal	DAY 2	283.832
+15F	Omicron	Male	2	Fecal	DAY 2	395.399
+16F	Omicron	Female	1	Fecal	DAY 2	356.651
+17F	Uninfected	Male	2	Fecal	DAY 4 	424.074
+18F	Uninfected	Female	2	Fecal	DAY 4	273.42
+19F	Hongkong	Male	1	Fecal	DAY 4	337.333
+20F	Hongkong	Female	2	Fecal	DAY 4 	371.912
+21F	Delta	Male	2	Fecal	DAY 4	414.45
+22F	Delta	Female	2	Fecal	DAY 4	289.091
+23F	Omicron	Male	2	Fecal	DAY 4	306.615
+24F	Omicron	Female	1	Fecal	DAY 4	292.575
+1SI	Uninfected	Male	1	Small Intestine	DAY 4 	47.874
+2SI	Uninfected	Male	1	Small Intestine	DAY 4	12.476
+3SI	Uninfected	Female	1	Small Intestine	DAY 4	35.141
+4SI	Uninfected	Female	1	Small Intestine	DAY 4 	68.239
+5SI	Hongkong	Male	1	Small Intestine	DAY 4	96.328
+6SI	Hongkong	Female	1	Small Intestine	DAY 4	88.158
+7SI	Hongkong	Female	1	Small Intestine	DAY 4 	41.901
+8SI	Delta	Male	1	Small Intestine	DAY 4	89.217
+9SI	Delta	Male	1	Small Intestine	DAY 4	44.453
+10SI	Delta	Female	1	Small Intestine	DAY 4 	139.945
+11SI	Delta	Female	1	Small Intestine	DAY 4	367.551
+12SI	Omicron	Male	1	Small Intestine	DAY 4	132.224
+13SI	Omicron	Male	1	Small Intestine	DAY 4	172.4
+14SI	Omicron	Female	1	Small Intestine	DAY 4	474.328
+NTC1	Control	None	1	None	None	350

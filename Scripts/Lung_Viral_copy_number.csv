@@ -1,0 +1,23 @@
+Variant Group,Gender,No. of animals,Sample Type,Day of collection,Sample ID,DNA conc (ng/uL),,NOTE,Viral_Load_Lung,Histology_Score_Lung,Viral_Load_Small_Intestine,Histology_Score_Small_Intestine,Organ
+Uninfected,Male,2,Fecal,DAY 4 ,17F,424.074,,,0,0,0,,Fecal
+Uninfected,Female,2,Fecal,DAY 4,18F,273.42,,,0,0,0,,Fecal
+Hongkong,Male,1,Fecal,DAY 4,19F,337.333,,Other animal was dead,25207.86127,0,1.186705622,,Fecal
+Hongkong,Female,2,Fecal,DAY 4 ,20F,371.912,,,27806.91033,0,2.100495226,,Fecal
+Delta,Male,2,Fecal,DAY 4,21F,414.45,,,98228.70348,0,855.9476331,,Fecal
+Delta,Female,2,Fecal,DAY 4,22F,289.091,,,12603.93063,0,3.167750764,,Fecal
+Omicron,Male,2,Fecal,DAY 4,23F,306.615,,,26507.3858,0,0,,Fecal
+Omicron,Female,1,Fecal,DAY 4,24F,292.575,,Other animal was dead,54.2866447,0,0,,Fecal
+Uninfected,Male,1,Small Intestine,DAY 4 ,1 SI,47.874,,,0,0,0,,Small Intestine
+Uninfected,Male,1,Small Intestine,DAY 4,2 SI,12.476,,,0,0,0,,Small Intestine
+Uninfected,Female,1,Small Intestine,DAY 4,3 SI,35.141,,,0,0,0,,Small Intestine
+Uninfected,Female,1,Small Intestine,DAY 4 ,4 SI,68.239,,,0,0,0,,Small Intestine
+Hongkong,Male,1,Small Intestine,DAY 4,5 SI,96.328,,,25207.86127,,1.186705622,,Small Intestine
+Hongkong,Female,1,Small Intestine,DAY 4,6 SI,88.158,,,28032.05909,,1.133480361,,Small Intestine
+Hongkong,Female,1,Small Intestine,DAY 4 ,7 SI,41.901,,,27581.76158,,3.06751009,,Small Intestine
+Delta,Male,1,Small Intestine,DAY 4,8 SI,89.217,,,61736.49935,,43.74949053,,Small Intestine
+Delta,Male,1,Small Intestine,DAY 4,9 SI,44.453,,,134720.9076,,1668.145776,,Small Intestine
+Delta,Female,1,Small Intestine,DAY 4 ,10 SI,139.945,,,89715.40046,,6.335501528,,Small Intestine
+Delta,Female,1,Small Intestine,DAY 4,11 SI,367.551,,,118086.7038,,0,,Small Intestine
+Omicron,Male,1,Small Intestine,DAY 4,12 SI,132.224,,,1724.681878,,0,,Small Intestine
+Omicron,Male,1,Small Intestine,DAY 4,13 SI,172.4,,,89.81523282,,0,,Small Intestine
+Omicron,Female,1,Small Intestine,DAY 4,14 SI,474.328,,,54.2866447,,0,,Small Intestine
